@@ -1,0 +1,124 @@
+{
+  "name" : "song_mapping-1712864369511",
+  "sourceOrgId" : "4oklJcaVbIxbHnyiJg45k0",
+  "sourceOrgName" : "iti",
+  "exportedObjects" : [ {
+    "objectGuid" : "4Dgn4Otc92MgeQOJrWVpyp",
+    "objectName" : "flat",
+    "objectType" : "Connection",
+    "path" : "/SYS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CV250B000000000003"
+      },
+      "objectRefs" : [ "1yujSLe872Ok0xie7rW6yj" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    }
+  }, {
+    "objectGuid" : "lhwhvDurNSigOluf8E48wY",
+    "objectName" : "Default",
+    "objectType" : "Project",
+    "path" : "/Explore",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "objectRefs" : [ ],
+      "contextAttributes" : [ {
+        "name" : "IS_DEF_LOC",
+        "value" : "true"
+      } ],
+      "additionalInfo" : {
+        "description" : "Auto-generated Default Project",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  }, {
+    "objectGuid" : "1yujSLe872Ok0xie7rW6yj",
+    "objectName" : "DESKTOP-408BHP6",
+    "objectType" : "AgentGroup",
+    "path" : "/SYS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CV2525000000000002"
+      },
+      "objectRefs" : [ ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  }, {
+    "objectGuid" : "5OytqpZTs6ieOueJlbUDCF",
+    "objectName" : "oracle",
+    "objectType" : "Connection",
+    "path" : "/SYS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CV250B000000000004"
+      },
+      "objectRefs" : [ "1yujSLe872Ok0xie7rW6yj" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    }
+  }, {
+    "objectGuid" : "56uYoemeJp3cSEpXqXynWl",
+    "objectName" : "song_mapping",
+    "objectType" : "DTEMPLATE",
+    "path" : "/Explore/Default",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CV251700000000000B"
+      },
+      "objectRefs" : [ "4Dgn4Otc92MgeQOJrWVpyp", "5OytqpZTs6ieOueJlbUDCF" ],
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  } ]
+}
