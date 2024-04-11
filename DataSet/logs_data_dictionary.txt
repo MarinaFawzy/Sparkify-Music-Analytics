@@ -1,0 +1,18 @@
+- artist: Name of Artist
+- auth: user authentication status
+- first_name: First Name of user
+- gender: User's gender
+- itemInSession: The number of action during an active session.
+- last_name: Last Name of user
+- length: session length
+- level: user level (paid or free)
+- location: user location
+- method: HTTP method
+- page: name of app page
+- registration: user registration number
+- sessionId: unique ID for session
+- song: song name 
+- status: HTTP status of action
+- ts: timestamp in unix epoch in milliseconds
+- userAgent: Agent of user (info on browser, OS, ..)
+- userId: unique ID for user

@@ -1,0 +1,9 @@
+- artist_id: ID of Artist of the song played
+- artist_lattitude: Lattitude location of artist
+- artist_longitude: Longitude location of artist
+- artist_location: Name of Artist city
+- artist_name: Name of Artist
+- song_id: ID of Song
+- title: Title of Song
+- duration: Song duration in milliseconds
+- year: Year of song release
