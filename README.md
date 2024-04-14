@@ -31,4 +31,5 @@ One specific transformation we'll perform is converting the Unix timestamp (TS) 
 
 ## Data Warehouse Model:
 
+![model](https://github.com/MarinaFawzy/Sparkify-Music-Analytics/assets/89097013/590b0829-fc43-43c7-a590-9a951b5e84fb)
 
